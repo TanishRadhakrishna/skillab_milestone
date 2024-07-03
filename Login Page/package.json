@@ -1,0 +1,14 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "login pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "keywords": [
+    "l"
+  ],
+  "author": "tan",
+  "license": "ISC"
+}
